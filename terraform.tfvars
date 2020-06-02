@@ -14,9 +14,9 @@ app_name = "demo-app-20200602-1800"
 
 ecr_repo = "fargate-demo-repo"
 
-github_oath_token = "cb41a708808069b5780bc452dfc694a147a49f73"
+github_oath_token = "xxxxxx"
 
-github_webhooks_token = "cb41a708808069b5780bc452dfc694a147a49f73"
+github_webhooks_token = "xxxxxx"
 
 github_repo_owner = "scdev13912"
 

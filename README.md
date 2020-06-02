@@ -1,6 +1,6 @@
 # tf-fargate-codepipeline
 A Terrafrom Example that deploys a Cloud Native & Serverless CI/CD envrionment with AWS ECS/Fargate Infrastructure and AWS CodePipeline leveraging GitHub webhook triggers 
-<img src="images/fargate-codepipeline.png" width = "1200">
+<img src="images/fargate-codepipeline.png" width = "2000">
 
 ## References
 - [terraform-aws-ecs-fargate](https://github.com/tmknom/terraform-aws-ecs-fargate.git) - Tmknom Terraform Module for creating AWS ECS Fargate resources

@@ -1,6 +1,6 @@
 # tf-fargate-codepipeline
 A Terrafrom Example that deploys a Cloud Native & Serverless CI/CD envrionment with AWS ECS/Fargate Infrastructure and AWS CodePipeline leveraging GitHub webhook triggers 
-<img src="images/fargate-codepipeline.png" width = "1000">
+<img src="images/fargate-codepipeline1.png" width = "800">
 
 ---
 

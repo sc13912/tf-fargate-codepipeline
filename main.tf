@@ -132,7 +132,7 @@ module "ecs_fargate" {
   container_definitions = jsonencode([
     {
       name      = var.container_name
-      image     = "bitnami/node:latest"
+      image     = "schen13912/fargate-demo:v1.0"
       essential = true
       portMappings = [
         {

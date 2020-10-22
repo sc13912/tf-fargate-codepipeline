@@ -1,6 +1,6 @@
-region = "us-east-1"
+region = "ap-southeast-2"
 
-ecs_service_name = "ecs-svc-example"
+ecs_service_name = "ecs-svc-demo"
 
 container_port = 3000
 
@@ -10,13 +10,13 @@ namespace = "sc13912"
 
 stage = "dev"
 
-app_name = "demo-app-20200602-1800"
+app_name = "fargate-demo-app"
 
 ecr_repo = "fargate-demo-repo"
 
-github_oath_token = "xxxxxx"
+github_oath_token = "xxxx"
 
-github_webhooks_token = "xxxxxx"
+github_webhooks_token = "xxxx"
 
 github_repo_owner = "scdev13912"
 
